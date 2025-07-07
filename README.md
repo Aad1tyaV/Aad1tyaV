@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aad1tyaV
-- 🌱 I’m currently learning pythoon for data science, analytics, distributed computing and cybersecurity
+- 🌱 I’m currently learning python for machine learning, data science, analytics and cybersecurity
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me @aadditya.varshney@gmail.com
 - 😄 Pronouns: He/Him
